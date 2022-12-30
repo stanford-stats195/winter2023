@@ -17,7 +17,7 @@ title: STATS 195
 tagline: STATS 195 - Introduction to R
 description: 
 author: Yujin Jeong
-baseurl: '/fall2022' # the subpath of your site, e.g. /blog
+baseurl: '/winter2023' # the subpath of your site, e.g. /blog
 url: 'https://stanford-stats195.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
