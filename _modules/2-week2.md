@@ -7,6 +7,9 @@ Jan 24
   : &nbsp;
 : * Importing data and Basic Graphics
 
+Jan 25
+: **HW 1 due**{: .label .label-red }
+
 Jan 26
 : **Lecture 4**{: .label .label-purple } Data Visualization
   : **HW 2 out**{: .label .label-orange }

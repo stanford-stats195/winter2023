@@ -7,6 +7,10 @@ Jan 31
   : &nbsp;
 : * Data Transformation with dplyr
 
+Feb
+: **HW 2 due**{: .label .label-red } 
+: **Project Proposal due**{: .label .label-red }
+
 Feb 2
 : **Lecture 6**{: .label .label-purple } Data Transformation
   : **HW 3 out**{: .label .label-orange }
