@@ -32,14 +32,14 @@ This short course runs for weeks one through four of the quarter. It is recommen
 
 ## Course Logistics
 
-- **Location**: STLC 115
 - **Time**: Tue, Thu 12:00-1:20pm
 - **Dates**: January 17, 19, 24, 26, 31, February 2, 7, 9.
+- **Location**: In-person at STLC 115
 - **Links**:
     - [Canvas](): The course Canvas page
       contains links and resources only accessible to students.
     - [Gradescope](): We use Gradescope for managing coursework (turning in, returning grades).  
-- **Course Grade**: The course grade (Satisfactory/No Credit) will be based on the following components.
+- **Course Grade**: The course grade (Satisfactory/No Credit) will be based on:
     - 3 Homework assignments (40%)
     - Final project proposal (10%)
     - Final project report (50%)
