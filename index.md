@@ -23,7 +23,7 @@ This short course runs for weeks one through four of the quarter. It is recommen
 {{ staffer }}
 {% endfor %}
 
-## Overview of the course:
+## Overview of the course
 
 - Week 1: Introduction to R 
 - Week 2: Data visualization with **ggplot2**
