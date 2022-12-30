@@ -1,12 +1,13 @@
 ---
-title: Week 1
+title: Week 1 - Introduction to R
 ---
 
 Jan 17
 : **Lecture 1**{: .label .label-purple } Introduction to R
-: * Course outline, examples of time series data
+  : &nbsp;
+: * Course Logistics, R Objects, and Packages
 
 Jan 19
 : **Lecture 2**{: .label .label-purple } Programming in R
-: * Course logistics, Models for time series data, stationarity, autocorrelation, and basic theoretical constructs
-  * Reading: **S&S** 1.2 - 1.4
+  : **HW 1 out**{: .label .label-orange }
+: * Control Flow, Functions, and Vectorization

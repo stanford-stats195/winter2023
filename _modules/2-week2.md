@@ -1,16 +1,13 @@
 ---
-title: Week 2
+title: Week 2 - Data Visualization with ggplot2
 ---
 
 Jan 24
-: **Lecture 3**{: .label .label-purple } 
+: **Lecture 3**{: .label .label-purple } Data Visualization
   : &nbsp;
-: * Estimating ACF; Data wrangling -- detrending and data transformations
-  * Reading: **S&S** 1.5, 2.2
+: * Importing data and Basic Graphics
 
 Jan 26
-: **Lecture 4**{: .label .label-purple } 
-  : &nbsp;
-: **CQ1 due**{: .label .label-green }
-: * Data wrangling cont'd -- smoothing via nonparametric regression; Linear and AR(1) processes (videos -- Yom Kippur)
-  * Reading: **S&S** 2.3, 3.1
+: **Lecture 4**{: .label .label-purple } Data Visualization
+  : **HW 2 out**{: .label .label-orange }
+: * The Grammar of Graphics: ggplot2

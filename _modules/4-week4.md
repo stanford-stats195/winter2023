@@ -1,16 +1,13 @@
 ---
-title: Week 4
+title: Week 4 - Statistical modeling and testing
 ---
 
 Feb 7
-: **Lecture 7**{: .label .label-purple } 
+: **Lecture 7**{: .label .label-purple } Statistical Modeling and Testing
   : &nbsp;
-: * Forecasting cont'd, forecasting metrics; Estimation via method of moments
-  * Reading: **S&S** 3.4-3.5
+: * A crash course in statistical modeling and testing
 
 Feb 9
-: **Lecture 8**{: .label .label-purple } 
+: **Lecture 8**{: .label .label-purple } Data Science and More
   : &nbsp;
-: **CQ2 due**{: .label .label-green }
-: * Estimation via maximum likelihood and least squares, estimation of ARMA models; ARIMA/SARIMA models
-  * Reading: **S&S** 3.5-3.6
+: * Mini project
