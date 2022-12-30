@@ -2,13 +2,13 @@
 title: Week 3
 ---
 
-Oct 10
+Jan 31
 : **Lecture 5**{: .label .label-purple } 
   : &nbsp;
 : * AR, MA, and ARMA models
   * Reading: **S&S** 3.1-3.2
 
-Oct 12
+Feb 2
 : **Lecture 6**{: .label .label-purple } 
   : **HW 1 due**{: .label .label-red }  **HW 2 out**{: .label .label-orange }
 : **CQ2 out**{: .label .label-green }: data wrangling, ARMA models

@@ -2,13 +2,13 @@
 title: Week 2
 ---
 
-Oct 3
+Jan 24
 : **Lecture 3**{: .label .label-purple } 
   : &nbsp;
 : * Estimating ACF; Data wrangling -- detrending and data transformations
   * Reading: **S&S** 1.5, 2.2
 
-Oct 5
+Jan 26
 : **Lecture 4**{: .label .label-purple } 
   : &nbsp;
 : **CQ1 due**{: .label .label-green }
