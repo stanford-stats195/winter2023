@@ -15,5 +15,5 @@ Feb 9
   : &nbsp;
 : * Mini project
 
-Feb 15 (Wed)
+Feb 15
 : **Project Report due**{: .label .label-red }
