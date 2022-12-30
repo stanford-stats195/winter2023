@@ -31,7 +31,6 @@ This short course runs for weeks one through four of the quarter. It is recommen
 - Week 4: Statistical modeling and testing
 
 ## Course Logistics
-&nbsp;
 
 **When**: Class is Tuesdays and Thursdays 12:00-1:20pm.
 
