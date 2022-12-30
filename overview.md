@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Motivation
+title: Intro
 nav_order: 2
 ---
