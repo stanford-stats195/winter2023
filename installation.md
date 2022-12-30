@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Assignments
+title: Installation
 nav_order: 4
 ---

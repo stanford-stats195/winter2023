@@ -13,7 +13,7 @@ Feb 8
 Feb 9
 : **Lecture 8**{: .label .label-purple } Data Science and More
   : &nbsp;
-: * Mini project
+: * In class Mini project
 
 Feb 15
 : **Project Report due**{: .label .label-red }
