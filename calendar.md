@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schedule
+title: Calendar
 description: Listing of course modules and topics.
 nav_order: 3
 ---
