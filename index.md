@@ -16,19 +16,19 @@ nav_order: 1
 
 This short course runs for weeks one through four of the quarter. It is recommended for students who want to use R in statistics, science or engineering courses, and for students who want to learn the basics of data science with R. The goal of the short course is to familiarize students with some of the most important R tools for data analysis. Lectures will focus on learning by example and assignments will be application-driven. No prior programming experience is assumed. 
 
-## Overview of the course:
-
-- Week 1: Introduction to R 
-- Week 2: Data visualization with **ggplot2**
-- Week 3: Data transformation with **dplyr**
-- Week 4: Statistical modeling and testing
-
 ## Instructor
 
 {% assign instructors = site.staffers | sort: 'index' %}
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}
+
+## Overview of the course:
+
+- Week 1: Introduction to R 
+- Week 2: Data visualization with **ggplot2**
+- Week 3: Data transformation with **dplyr**
+- Week 4: Statistical modeling and testing
 
 ## Course Logistics
 &nbsp;
