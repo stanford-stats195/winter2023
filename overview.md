@@ -10,9 +10,7 @@ The goal of this class is to help you learn the most important tools in R that w
 
 ![R](/winter2023/docs/assets/images/R.png){: .center-image }
 
-Image From: [R for Data Science](https://r4ds.had.co.nz/introduction.html) by Hadley Wickham and Garrett Grolemund
-
-There are three main steps in a data science project: you **prepare** the data, **analyze** it using visualization and models, then **communicate** the results. 
+Image From: [R for Data Science](https://r4ds.had.co.nz/introduction.html) by Hadley Wickham and Garrett Grolemund 
 
 First, you must **import** your data into R. Once you've imported your data, you need to **tidy** and **transform** the data into a useful form for analysis. Organizing data into the right, consistent structure is essential as it lets you focus on answering questions about the data. 
 
