@@ -16,6 +16,6 @@ First, you must **import** your data into R. Once you've imported your data, you
 
 Next steps are **visualization** and **modelling**. Visualization and modelling are complementary. Good visualizations surprise you and help you raise new questions about the data. However, visualizations don't scale particularly well as they rely on human interpretation. Models are a fundamentally mathematical or computational tool, so they generally scale much better. However, a model cannot fundamentally surprise you as they have their own assumptions. Once you have made your questions sufficiently precise with visualization, you can use a model to answer them.
 
-The last step is **communication**. An anlysis is only meaningful when you communicate your results to others and convince someone to take action. 
+The last step is **communication**. Keep in mind that an anlysis is only meaningful when you communicate your results to others and convince someone to take action. 
 
 **Throughout the course, you will be able to learn these tools and develop your own data science projects!** 
