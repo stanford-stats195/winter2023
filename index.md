@@ -40,9 +40,9 @@ This short course runs for weeks one through four of the quarter. It is recommen
       contains links and resources only accessible to students.
     - [Gradescope](https://www.gradescope.com/courses/486004): We use Gradescope for managing coursework (turning in, returning grades).  
 - **Course Grade**: The course grade (Satisfactory/No Credit) will be based on:
-    - 3 Homework assignments (40%)
+    - 3 Homework assignments (30%)
     - Final project proposal (10%)
-    - Final project report (50%)
+    - Final project report (60%)
 
 ## Textbook
 There are no required textbooks for this course. However, [R for Data Science](http://r4ds.had.co.nz/) by Hadley Wickham and Garrett Grolemund (O’Reilly Media, 2017, available for free online) is recommended as an aid to understanding the course material. Some of the course material is based on this book.
