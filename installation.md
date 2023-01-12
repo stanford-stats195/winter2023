@@ -4,7 +4,7 @@ title: Installation
 nav_order: 4
 ---
 
-To get started with R, you should download R as well as RStudio, a software application that makes R easier to use. 
+To get started with R, you should download R as well as RStudio, a software application that makes R easier to use. Please install R and RStudio before the second meeting of the course (details below).
 
 ## Installing R
 <br>
