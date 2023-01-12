@@ -4,6 +4,7 @@ title: Week 1 - Introduction to R
 
 Jan 17
 : **Lecture 1**{: .label .label-purple } Introduction to R
+  : &nbsp;
 : * Course Logistics, R Objects, and Packages
 
 Jan 19
