@@ -14,7 +14,7 @@ nav_order: 1
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}-->
 
-This course is recommended for students who want to use R in statistics, science or engineering courses, and for students who want to learn the basics of data science with R. The goal of the short course is to familiarize students with some of the most important R tools for data analysis. Lectures will focus on learning by example and assignments will be application-driven. No prior programming experience is assumed. 
+This short course runs for weeks one through four of the quarter. It is recommended for students who want to use R in statistics, science or engineering courses, and for students who want to learn the basics of data science with R. The goal of the short course is to familiarize students with some of the most important R tools for data analysis. Lectures will focus on learning by example and assignments will be application-driven. No prior programming experience is assumed.
 
 ## Instructor
 
