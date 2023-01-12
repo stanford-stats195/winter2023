@@ -21,10 +21,10 @@ nav_order: 4
 
 ## Final Project
 
-Your final project is an opportunity for you to get more practice with R and to explore its more advanced tools. You can find detailed instructions on [Canvas](https://canvas.stanford.edu/courses/164301).
+Your final project is an opportunity for you to get more practice with R and to explore its more advanced tools. Through the project you should demonstrate the skills you have learned in this class, but you are also encouraged to implement materials not taught in class. You can find detailed instructions and minimum requirements of the project on [Canvas](https://canvas.stanford.edu/courses/164301).
 
 - Proposal (title and 1-2 paragraph descriptions) due Wed Feb 1 at 11:59pm.
-- Final write-up and R code due Fev 15 at 11:59pm.
+- Final write-up and R code due Feb 15 at 11:59pm.
 
-Both the project proposal and final project should be submitted through [Gradescope](https://www.gradescope.com/courses/486004). 
+Both the project proposal and final project report should be submitted through [Gradescope](https://www.gradescope.com/courses/486004). 
 
