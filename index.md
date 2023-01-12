@@ -45,7 +45,7 @@ This short course runs for weeks one through four of the quarter. It is recommen
     - Final project report (50%)
 
 ## Textbook
-There are no required textbooks for this course. However, R for Data Science by Hadley Wickham and Garrett Grolemund (O’Reilly Media, 2017, available for free online at [http://r4ds.had.co.nz/](http://r4ds.had.co.nz/)) is recommended as an aid to understanding the course material. Some of the course material is based on this book.
+There are no required textbooks for this course. However, [R for Data Science](http://r4ds.had.co.nz/) by Hadley Wickham and Garrett Grolemund (O’Reilly Media, 2017, available for free online) is recommended as an aid to understanding the course material. Some of the course material is based on this book.
 
 ## Students with Documented Disabilities
 Students who may need an academic accommodation based on the impact of a disability must initiate the request with the Office of Accessible Education (OAE). Professional staff will evaluate the request, review appropriate medical documentation, recommend reasonable accommodations, and prepare an Accommodation Letter for faculty. The letter will indicate how long it is to be in effect. Students should contact the OAE as soon as possible since timely notice is needed to coordinate accommodations. Students should also send your accommodation letter to instructors as soon as possible. The OAE is located at 563 Salvatierra Walk (phone: 723-1066, URL: http://oae.stanford.edu).
