@@ -4,6 +4,6 @@ role: Instructor
 email: yujinj@stanford.edu
 website: https://www.linkedin.com/in/yujin-jeong-683b42154/
 photo: yujin.jpg
-office-hours: TBD
+office-hours: Thu 1:30 pm - 3:30 pm at Sequoia 105
 index : 1
 ---
