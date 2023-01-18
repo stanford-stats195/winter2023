@@ -10,4 +10,4 @@ Jan 17
 Jan 19
 : **Lecture 2**{: .label .label-purple } Programming in R
   : **HW 1 out**{: .label .label-orange }
-: * Control Flow, Functions, and Vectorization
+: * Control Flow, Functions, and Vectorization <a href="/winter2023/files/lec2.pdf">[slides]</a>
