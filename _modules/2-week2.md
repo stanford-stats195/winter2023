@@ -13,4 +13,4 @@ Jan 25
 Jan 26
 : **Lecture 4**{: .label .label-purple } Data Visualization
   : **HW 2 out**{: .label .label-orange }
-: * The Grammar of Graphics: ggplot2
+: * The Grammar of Graphics: ggplot2 <a href="/winter2023/files/lec4.pdf">[slides]</a>
