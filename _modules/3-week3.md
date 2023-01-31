@@ -13,4 +13,4 @@ Feb 1
 Feb 2
 : **Lecture 6**{: .label .label-purple } Data Transformation
   : **HW 3 out**{: .label .label-orange }
-: * More Data Transformation with dplyr
+: * More Data Transformation with dplyr <a href="/winter2023/files/lec6.pdf">[slides]</a>
