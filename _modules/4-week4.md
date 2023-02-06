@@ -11,9 +11,10 @@ Feb 8
 : **HW 3 due**{: .label .label-red }
 
 Feb 9
-: **Lecture 8**{: .label .label-purple } Data Science and More
+: **Lecture 8**{: .label .label-purple } Statistical Modeling and Testing
   : &nbsp;
-: * In class Mini project
+: * An introduction to hypothesis testing (cont'd)
+: * In class Mini Project
 
 Feb 15
 : **Project Report due**{: .label .label-red }
